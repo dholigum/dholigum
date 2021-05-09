@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dholigum
 - 👀 I’m interested in iOS Mobile Development, AI/Computer Vision/Machine Learning Researcher
-- 🌱 I’m currently learning Swift, SpriteKit, Pytorch
+- 🌱 I’m currently learning Swift and Python
 - 📫 You can reach me at linkedIn: https://www.linkedin.com/in/syahrul-fadholi-gumelar-158494145/
 
 <!---
